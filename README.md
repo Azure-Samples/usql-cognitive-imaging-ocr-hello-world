@@ -4,7 +4,7 @@ platforms: dotnet
 author: saveenr
 ---
 
-# U-SQL/Cognitive Imaging OCR Hello World
+# U-SQL: Cognitive Imaging OCR Hello World
 
 
 ```
